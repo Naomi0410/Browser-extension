@@ -7,6 +7,7 @@ This is a solution to the [Browser extensions manager UI challenge on Frontend M
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  -[Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -40,6 +41,10 @@ This is the dark mode view of the browser extensions manager UI.
 
 This is the light mode view of the browser extensions manager UI.
 ![Light Mode Screenshot](../public/screenshot-light-web.png)
+
+### Links
+
+- Live Demo: [https://browser-extension-one.vercel.app/](https://browser-extension-one.vercel.app/)
 
 ## My process
 
